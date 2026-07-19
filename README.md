@@ -20,8 +20,41 @@ A professional Python-based password security analysis tool with a modern GUI.
 - Python Secrets Module
 - Regular Expressions
 
-## 🚀 How to Run
+## 🚀 Installation & Usage
 
+### 🪟 Windows
+
+1. Install Python 3.13 or later.
+
+2. Clone the repository:
+
+```bash
+git clone https://github.com/albin753/Password-Security-Analyzer.git
+cd Password-Security-Analyzer
+```
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+Run the application:
+```bash
+python main.py
+```
+🐉 Kali Linux
+
+```bash
+git clone https://github.com/albin753/Password-Security-Analyzer.git
+cd Password-Security-Analyzer
+```
+Create a virtual environment:
+```bash
+python3 -m venv venv
+```
+Activate the virtual environment:
+```bash
+source venv/bin/activate
+```
 Install the required dependencies:
 
 ```bash
