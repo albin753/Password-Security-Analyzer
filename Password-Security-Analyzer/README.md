@@ -33,6 +33,3 @@ Password-Security-Analyzer/
 ├── config.py
 ├── requirements.txt
 └── README.md
-## 📸 Application Preview
-
-![Password Security Analyzer](screenshots/password-analyzer-demo.png)
