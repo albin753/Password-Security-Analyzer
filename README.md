@@ -29,7 +29,7 @@ A professional Python-based password security analysis tool with a modern GUI.
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/albin753/Password-Security-Analyzer.git
+git clone https://github.com/aj-infosec/Password-Security-Analyzer.git
 
 cd Password-Security-Analyzer
 ```
@@ -45,7 +45,7 @@ python main.py
 ### 🐉 Kali Linux
 
 ```bash
-git clone https://github.com/albin753/Password-Security-Analyzer.git
+git clone https://github.com/aj-infosec/Password-Security-Analyzer.git
 
 cd Password-Security-Analyzer
 ```
