@@ -30,6 +30,7 @@ A professional Python-based password security analysis tool with a modern GUI.
 
 ```bash
 git clone https://github.com/albin753/Password-Security-Analyzer.git
+
 cd Password-Security-Analyzer
 ```
 Install the required dependencies:
@@ -41,10 +42,11 @@ Run the application:
 ```bash
 python main.py
 ```
-🐉 Kali Linux
+##🐉 Kali Linux
 
 ```bash
 git clone https://github.com/albin753/Password-Security-Analyzer.git
+
 cd Password-Security-Analyzer
 ```
 Create a virtual environment:
