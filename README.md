@@ -27,7 +27,7 @@ Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 
-Run the application:
 python main.py
 
+```
 ![Password Security Analyzer](password-analyzer-demo.png)
