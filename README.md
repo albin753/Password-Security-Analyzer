@@ -42,7 +42,7 @@ Run the application:
 ```bash
 python main.py
 ```
-##🐉 Kali Linux
+### 🐉 Kali Linux
 
 ```bash
 git clone https://github.com/albin753/Password-Security-Analyzer.git
